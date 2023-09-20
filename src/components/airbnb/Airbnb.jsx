@@ -1,8 +1,8 @@
 import Header from './Header';
 import Banner from './Banner';
 import Footer from './Footer';
-import file from '/Users/JM/Development/Javascript skillup/Projects/airbnb/src/assets/data/file.json';
-import file2 from '/Users/JM/Development/Javascript skillup/Projects/airbnb/src/assets/data/file2.json';
+import file from '/airbnb/src/assets/data/file.json';
+import file2 from '/airbnb/src/assets/data/file2.json';
 import SmallCard from './SmallCard';
 import MediumCard from './MediumCard';
 import LargeCard from './LargeCard';
